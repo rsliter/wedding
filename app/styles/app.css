@@ -1,0 +1,87 @@
+body {
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  margin: 0px;
+  background-color: #f5f4ec;
+}
+
+#nav {
+  height: 40px;
+  background-color: #f5f4ec;
+  padding-left: 75px;
+  padding-top: 22px;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  border-bottom: 1px solid #bbbabe;
+}
+
+#nav a {
+  text-decoration: none;
+  padding-right: 20px;
+}
+
+img#flowers{
+  height: 40px;
+  position: fixed;
+  z-index: 2;
+  left: 20px;
+  top: 10px;
+}
+
+img#engagement-hero {
+  width: 100%;
+}
+
+.how-we-met img {
+  max-width: 400px;
+  margin: auto;
+  display: block;
+}
+
+a {
+  text-transform: uppercase;
+  text-decoration: underline;
+  color: #427342;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+h2 {
+  color: #427342;
+  font-family: 'Old Standard TT', serif;
+  font-size: 24px;
+}
+
+.ember-application {
+  position: absolute;
+  width: 100%;
+}
+
+#content {
+  max-width: 600px;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.ember-view {
+  margin-top: 60px;
+}
+
+.paragraph-group {
+  margin: 40px 0px;
+}
+
+.paragraph-group p {
+  margin: 0px;
+}
+
+li {
+  list-style-type: none;
+}
+
+li a {
+  padding-right: 5px;
+}
