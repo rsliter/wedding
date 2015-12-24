@@ -1,33 +1,33 @@
 export default {
   'things_to_do': {
-    'Dining_and_Entertainment_in_New_York_City': "Dining and Entertainment in New York City",
-    'Here_are_some_of_the_places_we_visit': "Here are some of the places we visit frequently and think you'll love, too!",
+    'Dining_and_Entertainment_in_New_York_City': "Comida y Entretenimiento en Nueva York",
+    'Here_are_some_of_the_places_we_visit': "Aquí están algunos de los sitios que visitamos con frecuencia y creemos que también te gustarán",
     'Brooklyn_Boulders_is_an': "Brooklyn Boulders es un rocódromo <i>increíble</>, adecuado para novatos, y en general un buen lugar para hacer ejercicio.",
-    'Prospect_Park_is_Brooklyns': "Prospect Park is Brooklyn's version of Central Park. Our wedding venue is actually adjacent to the park, but it's a great place to visit in advance if you'd like to ride bikes, go for a run, or have a picnic at its Saturday-morning farmer's market!",
-    'This_is_a_fun_brewery_thats_right_around': "This is a fun brewery that's right around the corner from Brooklyn Boulders. It's kid-friendly, and they have neighborhood restaurants come in and sell food. It's a great place for a casual meal.",
-    'This_is_a_pizza_place_thats_close_to_downtown_Brooklyn': "This is a pizza place that's close to downtown Brooklyn. All their pies are delicious, but our favorite is the namesake, which is topped with pistachios!",
-    'This_cafe_is_an_offshoot_of_a_hundred_year_old_deli': "This cafe is an offshoot of a hundred-year-old deli. Make sure to come early for breakfast and grab a bagel platter with piles of smoked fish!",
-    'This_restaurant_is_in_Prospect_Heights_close_to': "This restaurant is in Prospect Heights, close to downtown Brooklyn. The delicious food is made even better by the Brownstone setting in a cute neighborhood."
+    'Prospect_Park_is_Brooklyns': "Prospect Park es el Central Park de Brooklyn. El lugar donde celebraremos nuestra boda está al lado del parque, pero es un buen sitio para visitar si te apetece montar en bicicleta, o hacer un picnic en el mercado de granjeros que hacen los sábados.",
+    'This_is_a_fun_brewery_thats_right_around': "Una cervecería divertida justo al lado de Brooklyn Boulders. Se puede ir con niños pequeños. Cada semana un restaurante local distinto vende su comida. Es un buen sitio para una comida casual.",
+    'This_is_a_pizza_place_thats_close_to_downtown_Brooklyn': "Una pizzería cercana al centro de Brooklyn. Todas sus pizzas son deliciosas, pero nuestra favorita es la pizza Emily's, ¡con pistachos!",
+    'This_cafe_is_an_offshoot_of_a_hundred_year_old_deli': "Esta cafetería es la heredera de una tienda tradicional judía con cien años de historia. Acércate temprano para desayunar un bagel (rosca de pan de origen judío) con pescado ahumado.",
+    'This_restaurant_is_in_Prospect_Heights_close_to': "Este restaurante está en Prospect Heights, cerca del centro de Brooklyn. Su deliciosa comida sabe aún mejor mirando a las fachadas de los bonitos edificios de este barrio."
   },
   'registry': {
-    'What_we_want_most_for_our_wedding_is_to': "What we want most for our wedding is to have all of our friends and family together. More than anything, we consider your presence the best gift to us. That said, if you would like to get us something tangible, here are some suggestions:",
-    'Weve_also_set_up_a_small_registry': "We've also set up a small registry for our honeymoon. We love the idea that loved ones could contribute something to our first trip as a married couple.",
-    'Registry': 'Registry'
+    'What_we_want_most_for_our_wedding_is_to': "Lo que más queremos en nuestra boda es celebrar con todos nuestros amigos y familia. Más que nada, consideramos tu presencia el mejor regalo. Dicho lo dicho, si quieres regalarnos algo tangible, aquí tienes unas recomendaciones:",
+    'Weve_also_set_up_a_small_registry': "También hemos creado una pequeña lista de bodas para nuestra luna de miel. Nos encanta la idea de que la gente que queremos pueda contribuir a nuestro primer viaje de casados.",
+    'Registry': 'Lista de bodas'
   },
   'accomodations': {
-    'Accomodations': 'Accomodations',
-    'Hotels': 'Hotels',
-    'Weve_contacted_a_handful_of_local_hotels': "We've contacted a handful of local hotels to secure room blocks on our wedding weekend.",
-    'Marriott_at_the_Brooklyn_Bridge': "Marriott at the Brooklyn Bridge",
-    '289_night_until_August_17': '$289/night until August 17',
-    'This_is_a_20_minute_subway_ride_or_': "This is a 20-minute subway ride or a 15-minute taxi ride from our venue",
+    'Accomodations': 'Alojamiento',
+    'Hotels': 'Hoteles',
+    'Weve_contacted_a_handful_of_local_hotels': "Tenemos habitaciones reservadas para los asistentes a nuestra boda en unos cuantos hoteles",
+    'Marriott_at_the_Brooklyn_Bridge': "Marriott en el Puente de Brooklyn",
+    '289_night_until_August_17': '$289/noche hasta el 17 de Agosto',
+    'This_is_a_20_minute_subway_ride_or_': "20 minutos en metro o 15 minutos en taxi hasta el lugar de la boda.",
     'Brooklyn_Fairfield_Inn': "Brooklyn Fairfield Inn",
-    '219_night': "$219/night",
-    'This_is_a_10_minute_taxi_ride': "This is a 10-minute taxi ride or a 1-mile walk from our venue",
-    'Marriott_Downtown_239_night': "<p>Marriott Downtown</p><p>$239/night</p><p>This hotel is a little further afield but could be a good option for folks who'd like to stay in Manhattan. It's a 30-minute subway ride to our venue.</p>",
-    'Traveling_with_a_group': "Traveling with a group?",
-    'If_you_need_to_book_more_than_one_room': "If you need to book more than one room for your stay, Airbnb might be a good option. It's a service that allows users to \"rent\" apartments in neighborhoods. We've personally used it when we've traveled and often prefer it as a way to save money on paragraph-groups and stay closer to a specific point of interest. Some great neighborhoods include:",
-    'Park_Slope_is': "Park Slope is the neighborhood where our venue is located. It's quiet and gorgeous but isn't as well-connected on the subway to Manhattan.",
-    'This_neighborhood_is_within_walking_distance': "This neighborhood is within walking distance of our venue, offers a larger choice of restaurants than Park Slope, and is a little easier to get to Manhattan from."
+    '219_night': "$219/noche hasta el 17 de Agosto",
+    'This_is_a_10_minute_taxi_ride': "10 minutos en taxi o 1,5 km caminando hasta el lugar de la boda.",
+    'Marriott_Downtown_239_night': "<p>Marriott Downtown</p><p>$239/night</p><p>Este hotel está un poco más lejos del lugar de la boda (30 minutos en tren), pero puede ser una buena opción si quieres alojarte en el centro de Nueva York (Manhattan).</p>",
+    'Traveling_with_a_group': "¿Viajas con un grupo?",
+    'If_you_need_to_book_more_than_one_room': "Si necesitas reservar más de una habitación para tu estancia, Airbnb puede ser una buena opción. Airbnb es un servicio que permite a sus usuarios \"alquilar\" apartamentos privados. Nosotros hemos usado este servicio muchas veces cuando hemos viajado en grupo y queríamos ahorrar en alojamiento pero tener una buena localización en la ciudad. Algunos barrios recomendados:.",
+    'Park_Slope_is': "Park Slope es el barrio donde se encuentra el lugar de nuestra boda. Es tranquilo y precioso, pero no está tan bien conectado al centro de Nueva York (Manhattan) en metro.",
+    'This_neighborhood_is_within_walking_distance': "Desde este barrio se puede caminar al lugar de nuestra boda. Tiene una mayor oferta de restaurantes que Park Slope y está mejor comunicado con el centro de Nueva York (Manhattan)."
   }
 };
