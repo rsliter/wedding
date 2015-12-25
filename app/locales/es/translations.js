@@ -1,4 +1,10 @@
 export default {
+  'Wedding': {
+    'Wedding': 'Nuestra Boda',
+    'Our_Wedding': 'Nuestra Boda',
+    'Saturday_September_17': 'El Diecisiete de Septiembre, 2017',
+    '5_PM': '17h'
+  },
   'things_to_do': {
     'Dining_and_Entertainment_in_New_York_City': "Comida y Entretenimiento en Nueva York",
     'Here_are_some_of_the_places_we_visit': "Aquí están algunos de los sitios que visitamos con frecuencia y creemos que también te gustarán",
@@ -7,7 +13,8 @@ export default {
     'This_is_a_fun_brewery_thats_right_around': "Una cervecería divertida justo al lado de Brooklyn Boulders. Se puede ir con niños pequeños. Cada semana un restaurante local distinto vende su comida. Es un buen sitio para una comida casual.",
     'This_is_a_pizza_place_thats_close_to_downtown_Brooklyn': "Una pizzería cercana al centro de Brooklyn. Todas sus pizzas son deliciosas, pero nuestra favorita es la pizza Emily's, ¡con pistachos!",
     'This_cafe_is_an_offshoot_of_a_hundred_year_old_deli': "Esta cafetería es la heredera de una tienda tradicional judía con cien años de historia. Acércate temprano para desayunar un bagel (rosca de pan de origen judío) con pescado ahumado.",
-    'This_restaurant_is_in_Prospect_Heights_close_to': "Este restaurante está en Prospect Heights, cerca del centro de Brooklyn. Su deliciosa comida sabe aún mejor mirando a las fachadas de los bonitos edificios de este barrio."
+    'This_restaurant_is_in_Prospect_Heights_close_to': "Este restaurante está en Prospect Heights, cerca del centro de Brooklyn. Su deliciosa comida sabe aún mejor mirando a las fachadas de los bonitos edificios de este barrio.",
+    'NYC_Entertainment': 'Entretenimiento en NYC'
   },
   'registry': {
     'What_we_want_most_for_our_wedding_is_to': "Lo que más queremos en nuestra boda es celebrar con todos nuestros amigos y familia. Más que nada, consideramos tu presencia el mejor regalo. Dicho lo dicho, si quieres regalarnos algo tangible, aquí tienes unas recomendaciones:",
@@ -29,5 +36,8 @@ export default {
     'If_you_need_to_book_more_than_one_room': "Si necesitas reservar más de una habitación para tu estancia, Airbnb puede ser una buena opción. Airbnb es un servicio que permite a sus usuarios \"alquilar\" apartamentos privados. Nosotros hemos usado este servicio muchas veces cuando hemos viajado en grupo y queríamos ahorrar en alojamiento pero tener una buena localización en la ciudad. Algunos barrios recomendados:.",
     'Park_Slope_is': "Park Slope es el barrio donde se encuentra el lugar de nuestra boda. Es tranquilo y precioso, pero no está tan bien conectado al centro de Nueva York (Manhattan) en metro.",
     'This_neighborhood_is_within_walking_distance': "Desde este barrio se puede caminar al lugar de nuestra boda. Tiene una mayor oferta de restaurantes que Park Slope y está mejor comunicado con el centro de Nueva York (Manhattan)."
+  },
+  'our_story': {
+    'Our_Story': 'Nuestra Historia'
   }
 };
