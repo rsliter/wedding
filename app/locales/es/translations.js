@@ -7,8 +7,8 @@ export default {
   },
   'things_to_do': {
     'Dining_and_Entertainment_in_New_York_City': "Comida y Entretenimiento en Nueva York",
-    'Here_are_some_of_the_places_we_visit': "Aquí están algunos de los sitios que visitamos con frecuencia y creemos que también te gustarán",
-    'Brooklyn_Boulders_is_an': "Brooklyn Boulders es un rocódromo <i>increíble</>, adecuado para novatos, y en general un buen lugar para hacer ejercicio.",
+    'Here_are_some_of_the_places_we_visit': "Aquí están algunos de los sitios que visitamos con frecuencia y creemos que también te gustarán.",
+    'Brooklyn_Boulders_is_an': "Brooklyn Boulders es un rocódromo <i>increíble</i>, adecuado para novatos, y en general un buen lugar para hacer ejercicio.",
     'Prospect_Park_is_Brooklyns': "Prospect Park es el Central Park de Brooklyn. El lugar donde celebraremos nuestra boda está al lado del parque, pero es un buen sitio para visitar si te apetece montar en bicicleta, o hacer un picnic en el mercado de granjeros que hacen los sábados.",
     'This_is_a_fun_brewery_thats_right_around': "Una cervecería divertida justo al lado de Brooklyn Boulders. Se puede ir con niños pequeños. Cada semana un restaurante local distinto vende su comida. Es un buen sitio para una comida casual.",
     'This_is_a_pizza_place_thats_close_to_downtown_Brooklyn': "Una pizzería cercana al centro de Brooklyn. Todas sus pizzas son deliciosas, pero nuestra favorita es la pizza Emily's, ¡con pistachos!",
@@ -38,6 +38,12 @@ export default {
     'This_neighborhood_is_within_walking_distance': "Desde este barrio se puede caminar al lugar de nuestra boda. Tiene una mayor oferta de restaurantes que Park Slope y está mejor comunicado con el centro de Nueva York (Manhattan)."
   },
   'our_story': {
-    'Our_Story': 'Nuestra Historia'
+    'Our_Story': 'Nuestra Historia',
+    'How_We_Met': 'How We Met',
+    'Rebecca_and_Francisco_met_on_a_ski_trip_organized_by_their_coworkers': 'Rebecca and Francisco met on a ski trip organized by their coworkers. They realized that they both lived in Chicago and began spending time after work together.',
+    'About_a_year_into_their_relationship_Francisco_and_Rebecca': 'About a year into their relationship, Francisco and Rebecca moved in together when they moved to Ecuador for work! They spent a year there, working and climbing mountains on the weekends.',
+    'When_their_assignment_was_over': 'When their assignment was over, they moved to Dallas. Along the way they adopted a cat, Wendy Davis.',
+    'Shortly_after_Rebecca_moved_to_New_York': 'Shortly after Rebecca moved to New York City for a work opportunity and Francisco followed suit, picking up and moving to Brooklyn. Wendy was thrilled 😻.',
+    'This_past_fall_Francisco_organized_a_trip_to_the_Catskills': 'This past fall, Francisco organized a trip to the Catskills mountains, a couple hours away from New York City. After a day spent hiking they went out for a nice dinner. Back at their cabin afterwards, Francisco proposed to Rebecca.'
   }
 };
