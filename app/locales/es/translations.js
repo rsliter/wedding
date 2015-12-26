@@ -2,7 +2,7 @@ export default {
   'Wedding': {
     'Wedding': 'Nuestra Boda',
     'Our_Wedding': 'Nuestra Boda',
-    'Saturday_September_17': 'El Diecisiete de Septiembre, 2017',
+    'Saturday_September_17': 'El 17 de Septiembre, 2016',
     '5_PM': '17h'
   },
   'things_to_do': {
@@ -14,7 +14,7 @@ export default {
     'This_is_a_pizza_place_thats_close_to_downtown_Brooklyn': "Una pizzería cercana al centro de Brooklyn. Todas sus pizzas son deliciosas, pero nuestra favorita es la pizza Emily's, ¡con pistachos!",
     'This_cafe_is_an_offshoot_of_a_hundred_year_old_deli': "Esta cafetería es la heredera de una tienda tradicional judía con cien años de historia. Acércate temprano para desayunar un bagel (rosca de pan de origen judío) con pescado ahumado.",
     'This_restaurant_is_in_Prospect_Heights_close_to': "Este restaurante está en Prospect Heights, cerca del centro de Brooklyn. Su deliciosa comida sabe aún mejor mirando a las fachadas de los bonitos edificios de este barrio.",
-    'NYC_Entertainment': 'Entretenimiento en NYC'
+    'NYC_Entertainment': 'Entretenimiento en Nueva York'
   },
   'registry': {
     'What_we_want_most_for_our_wedding_is_to': "Lo que más queremos en nuestra boda es celebrar con todos nuestros amigos y familia. Más que nada, consideramos tu presencia el mejor regalo. Dicho lo dicho, si quieres regalarnos algo tangible, aquí tienes unas recomendaciones:",

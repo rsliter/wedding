@@ -1,16 +1,17 @@
 body {
   font-family: 'Lato', sans-serif;
   font-size: 16px;
-  margin: 0px;
+  margin: 0px 0px 150px 0px;
   background-color: #f5f4ec;
 }
 
 #nav {
   height: 40px;
   background-color: #f5f4ec;
-  padding-left: 75px;
-  padding-top: 22px;
   position: fixed;
+  top: 0;
+  left: 0;
+  padding: 10px 0 15px 15px;
   z-index: 1;
   width: 100%;
   border-bottom: 1px solid #bbbabe;
@@ -18,15 +19,21 @@ body {
 
 #nav a {
   text-decoration: none;
-  padding-right: 20px;
+  padding-left: 20px;
+  vertical-align: super;
+  float: left;
+  margin-top: 15px;
+}
+
+#nav a.active {
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 img#flowers{
   height: 40px;
-  position: fixed;
   z-index: 2;
-  left: 20px;
-  top: 10px;
+  float: left;
 }
 
 img#engagement-hero {
@@ -71,7 +78,7 @@ h2 {
 }
 
 .paragraph-group {
-  margin: 40px 0px;
+  margin-bottom: 20px;
 }
 
 .paragraph-group p {
