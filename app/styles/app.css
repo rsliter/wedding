@@ -5,6 +5,7 @@ body {
   background-color: #f5f4ec;
 }
 
+
 #nav {
   height: 40px;
   background-color: #f5f4ec;
@@ -21,8 +22,10 @@ body {
   text-decoration: none;
   padding-left: 20px;
   vertical-align: super;
-  float: left;
   margin-top: 15px;
+  position: relative;
+  display: inline-block;
+  float: left;
 }
 
 #nav a.active {
@@ -67,10 +70,14 @@ h2 {
   width: 100%;
 }
 
-#content {
+#content, #inner-content {
   max-width: 600px;
   margin: auto;
-  padding-top: 10px;
+  padding: 10px;
+}
+
+#inner-content {
+  margin-top: 0px;
 }
 
 .ember-view {
@@ -91,4 +98,22 @@ li {
 
 li a {
   padding-right: 5px;
+}
+
+@media only screen and (max-width: 767px) {
+  #nav {
+    padding: 5px 0px;
+    height: 120px;
+  }
+  #nav a {
+    width: 100%;
+    margin-top: 5px;
+    padding-left: 10px;
+  }
+  img#flowers {
+    display: none;
+  }
+  #content, #content-with-hero {
+    margin-top: 110px;
+  }
 }
