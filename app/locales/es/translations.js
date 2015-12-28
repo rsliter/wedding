@@ -39,11 +39,11 @@ export default {
   },
   'our_story': {
     'Our_Story': 'Nuestra Historia',
-    'How_We_Met': 'How We Met',
-    'Rebecca_and_Francisco_met_on_a_ski_trip_organized_by_their_coworkers': 'Rebecca and Francisco met on a ski trip organized by their coworkers. They realized that they both lived in Chicago and began spending time after work together.',
-    'About_a_year_into_their_relationship_Francisco_and_Rebecca': 'About a year into their relationship, Francisco and Rebecca moved in together when they moved to Ecuador for work! They spent a year there, working and climbing mountains on the weekends.',
-    'When_their_assignment_was_over': 'When their assignment was over, they moved to Dallas. Along the way they adopted a cat, Wendy Davis.',
-    'Shortly_after_Rebecca_moved_to_New_York': 'Shortly after Rebecca moved to New York City for a work opportunity and Francisco followed suit, picking up and moving to Brooklyn. Wendy was thrilled 😻.',
-    'This_past_fall_Francisco_organized_a_trip_to_the_Catskills': 'This past fall, Francisco organized a trip to the Catskills mountains, a couple hours away from New York City. After a day spent hiking they went out for a nice dinner. Back at their cabin afterwards, Francisco proposed to Rebecca.'
+    'How_We_Met': 'Cómo nos conocimos',
+    'Rebecca_and_Francisco_met_on_a_ski_trip_organized_by_their_coworkers': 'Rebecca y Francisco se conocieron en un viaje de esquí organizado por sus compañeros de trabajo. Como los dos vivían en Chicago, empezaron a pasar tiempo juntos.',
+    'About_a_year_into_their_relationship_Francisco_and_Rebecca': 'Más o menos un año después de comenzar a salir juntos, Francisco y Rebecca se mudaron juntos a Ecuador por trabajo. Pasaron un año allí, trabajando y escalando montañas los fines de semana.',
+    'When_their_assignment_was_over': 'Cuando su año en Ecuador acabó, se mudaron a Dallas. Entonces adoptaron a una gatita preciosa, Wendy Davis.',
+    'Shortly_after_Rebecca_moved_to_New_York': 'Poco después, Rebecca se mudó a Nueva York para perseguir una oportunidad laboral, y Francisco la siguió, mudándose juntos a Brooklyn. Wendy estaba muy contenta 😻.',
+    'This_past_fall_Francisco_organized_a_trip_to_the_Catskills': 'Este otoño, Francisco organizó un viaje a las montañas Catskills, un par de horas en coche al norte de la ciudad de Nueva York. Pasaron un día haciendo senderismo y después fueron a cenar a un restaurante. De vuelta en su cabaña en las montañas, Francisco pidió matrimonio a Rebecca.'
   }
 };
