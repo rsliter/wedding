@@ -33,7 +33,7 @@ export default {
     'This_is_a_10_minute_taxi_ride': "This is a 10-minute taxi ride or a 1-mile walk from our venue",
     'Marriott_Downtown_239_night': "<p>Marriott Downtown</p><p>$239/night</p><p>This hotel is a little further afield but could be a good option for folks who'd like to stay in Manhattan. It's a 30-minute subway ride to our venue.</p>",
     'Traveling_with_a_group': "Traveling with a group?",
-    'If_you_need_to_book_more_than_one_room': "If you need to book more than one room for your stay, Airbnb might be a good option. It's a service that allows users to \"rent\" apartments in neighborhoods. We've personally used it when we've traveled and often prefer it as a way to save money on paragraph-groups and stay closer to a specific point of interest. Some great neighborhoods include:",
+    'If_you_need_to_book_more_than_one_room': "If you need to book more than one room for your stay, Airbnb might be a good option. It's a service that allows users to \"rent\" apartments in neighborhoods. We've personally used it when we've traveled and often prefer it as a way to save money on hotels and stay closer to a specific point of interest. Some great neighborhoods include:",
     'Park_Slope_is': "Park Slope is the neighborhood where our venue is located. It's quiet and gorgeous but isn't as well-connected on the subway to Manhattan.",
     'This_neighborhood_is_within_walking_distance': "This neighborhood is within walking distance of our venue, offers a larger choice of restaurants than Park Slope, and is a little easier to get to Manhattan from."
   },
