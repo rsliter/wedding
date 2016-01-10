@@ -31,7 +31,7 @@ export default {
     'Brooklyn_Fairfield_Inn': "Brooklyn Fairfield Inn",
     '219_night': "$219/noche hasta el 17 de Agosto",
     'This_is_a_10_minute_taxi_ride': "10 minutos en taxi o 1,5 km caminando hasta el lugar de la boda.",
-    'Marriott_Downtown_239_night': "<p>Marriott Downtown</p><p>$239/night</p><p>Este hotel está un poco más lejos del lugar de la boda (30 minutos en tren), pero puede ser una buena opción si quieres alojarte en el centro de Nueva York (Manhattan).</p>",
+    'Marriott_Downtown_239_night': "<p><a href='https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=14444093'>Marriott Downtown</a></p><p>$239/night</p><p>Este hotel está un poco más lejos del lugar de la boda (30 minutos en tren), pero puede ser una buena opción si quieres alojarte en el centro de Nueva York (Manhattan).</p>",
     'Traveling_with_a_group': "¿Viajas con un grupo?",
     'If_you_need_to_book_more_than_one_room': "Si necesitas reservar más de una habitación para tu estancia, Airbnb puede ser una buena opción. Airbnb es un servicio que permite a sus usuarios \"alquilar\" apartamentos privados. Nosotros hemos usado este servicio muchas veces cuando hemos viajado en grupo y queríamos ahorrar en alojamiento pero tener una buena localización en la ciudad. Algunos barrios recomendados:.",
     'Park_Slope_is': "Park Slope es el barrio donde se encuentra el lugar de nuestra boda. Es tranquilo y precioso, pero no está tan bien conectado al centro de Nueva York (Manhattan) en metro.",
