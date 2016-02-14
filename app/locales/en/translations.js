@@ -40,7 +40,7 @@ export default {
   'our_story': {
     'Our_Story': 'Our Story',
     'How_We_Met': 'How We Met',
-    'Rebecca_and_Francisco_met_on_a_ski_trip_organized_by_their_coworkers': 'Rebecca and Francisco met on a ski trip organized by their coworkers. Back at the lodge, they realized that they both lived in Chicago and began spending time after work together.',
+    'Rebecca_and_Francisco_met_on_a_ski_trip_organized_by_their_coworkers': 'Rebecca and Francisco met on a ski trip organized by their coworkers. Back at the lodge, they realized that they both lived in Chicago and made plans to spend time after work together.',
     'About_a_year_into_their_relationship_Francisco_and_Rebecca': 'About a year into their relationship, Francisco and Rebecca moved in together when they moved to Ecuador for work! They spent a year there, working and climbing mountains on the weekends.',
     'When_their_assignment_was_over': 'When their work assignment in Ecuador was over, they moved to Dallas. Along the way they adopted a cat, Wendy Davis.',
     'Shortly_after_Rebecca_moved_to_New_York': 'Shortly afterwards Rebecca moved to New York City for a work opportunity and Francisco followed suit, picking up and moving to Brooklyn. Wendy was thrilled 😻.',
