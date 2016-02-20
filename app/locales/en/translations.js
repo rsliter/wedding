@@ -44,6 +44,6 @@ export default {
     'About_a_year_into_their_relationship_Francisco_and_Rebecca': 'About a year into their relationship, Francisco and Rebecca moved in together when they moved to Ecuador for work! They spent a year there, working and climbing mountains on the weekends.',
     'When_their_assignment_was_over': 'When their work assignment in Ecuador was over, they moved to Dallas. Along the way they adopted a cat, Wendy Davis.',
     'Shortly_after_Rebecca_moved_to_New_York': 'Shortly afterwards Rebecca moved to New York City for a work opportunity and Francisco followed suit, picking up and moving to Brooklyn. Wendy was thrilled 😻.',
-    'This_past_fall_Francisco_organized_a_trip_to_the_Catskills': 'This past fall, Francisco organized a vacation in the Catskills mountains near New York City. They spent their Saturday day hiking before going out to dinner. Back at their cabin afterwards, Francisco proposed to Rebecca.'
+    'This_past_fall_Francisco_organized_a_trip_to_the_Catskills': 'This past fall, Francisco organized a vacation in the Catskills mountains near New York City. They spent all day Saturday hiking before going out to dinner. Back at their cabin afterwards, Francisco proposed to Rebecca.'
   }
 };
