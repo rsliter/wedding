@@ -3,7 +3,7 @@ export default {
     'Wedding': 'Nuestra Boda',
     'Our_Wedding': 'Nuestra Boda',
     'Saturday_September_17': 'El 17 de Septiembre, 2016',
-    '5_PM': '17h'
+    '5_PM': '17:30h'
   },
   'things_to_do': {
     'Dining_and_Entertainment_in_New_York_City': "Comida y Entretenimiento en Nueva York",
