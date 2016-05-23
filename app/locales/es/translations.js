@@ -6,7 +6,9 @@ export default {
     '5_PM': '17:30h',
     'Brunch': 'Brunch (Desayuno-Almuerzo)',
     '12_PM': '12:00h',
-    'Address_in_invitations': 'Nuestra dirección está incluida en la invitación.'
+    'Address_in_invitations': 'Nuestra dirección está incluida en la invitación.',
+    'Ceremony_and_Reception': 'Ceremonia y Recepción',
+    'Sunday_September_18': 'El 18 de Septiembre, 2016'
   },
   'things_to_do': {
     'Dining_and_Entertainment_in_New_York_City': "Comida y Entretenimiento en Nueva York",

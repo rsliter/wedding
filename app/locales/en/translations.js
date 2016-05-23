@@ -6,7 +6,9 @@ export default {
     '5_PM': '5:30 PM',
     'Brunch': 'Brunch',
     '12_PM': '12:00 PM',
-    'Address_in_invitations': 'Our home address is included with your invitation.'
+    'Address_in_invitations': 'Our home address is included with your invitation.',
+    'Ceremony_and_Reception': 'Ceremony and Reception',
+    'Sunday_September_18': 'Sunday, September 18'
   },
   'things_to_do': {
     'Dining_and_Entertainment_in_New_York_City': "Dining and Entertainment in New York City",
