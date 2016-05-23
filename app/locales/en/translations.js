@@ -3,7 +3,10 @@ export default {
     'Wedding': 'Wedding',
     'Our_Wedding': 'Our Wedding',
     'Saturday_September_17': 'Saturday September 17 2016',
-    '5_PM': '5:30 PM'
+    '5_PM': '5:30 PM',
+    'Brunch': 'Brunch',
+    '12_PM': '12:00 PM',
+    'Address_in_invitations': 'Our home address is included with your invitation.'
   },
   'things_to_do': {
     'Dining_and_Entertainment_in_New_York_City': "Dining and Entertainment in New York City",
